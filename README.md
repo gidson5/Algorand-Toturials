@@ -1,4 +1,4 @@
-# Algorand-Toturials
+# Algorand.
 
 launching a Beaker-powered betting dApp
    This tutorial will help you launch an AlgoBet instance, a betting dApp created using the Beaker framework.
